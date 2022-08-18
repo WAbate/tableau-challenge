@@ -1,3 +1,7 @@
+# Data Visualization Dashboard Link:
+* https://public.tableau.com/views/TableauChallenge-CitiBikeUsageAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
 # Tableau Homework - Citi Bike Analytics
 
 ### Before You Begin
